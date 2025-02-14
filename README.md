@@ -1,5 +1,5 @@
 # __DATABASE__ __&__ __TOOLS__
-• Postfre SQL
+• Postgre SQL
 • PgAdmin4
 
 
