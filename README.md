@@ -6,7 +6,9 @@ popularity. Delivered data-driven recommendations to improve marketing effective
 
 # __DATABASE__ __&__ __TOOLS__
 • Postgre SQL   
-• PgAdmin4
+• PgAdmin4  
+
+# Schema
 
 
 <img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/71d0d717-a55f-4e41-bb5c-c4aa485b26c6" />
