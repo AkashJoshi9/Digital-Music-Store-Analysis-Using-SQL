@@ -18,9 +18,3 @@ popularity. Delivered data-driven recommendations to improve marketing effective
 Instructions on how to install.
 Download databse file----   
 right click on database in Server and restore---
-
-## Usage
-Hands-on SQL practice.
-
-## License
-NA
