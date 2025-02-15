@@ -14,9 +14,6 @@ popularity. Delivered data-driven recommendations to improve marketing effective
 <img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/71d0d717-a55f-4e41-bb5c-c4aa485b26c6" />
 
 ## Languages Used
-- ![SQL](https://img.shields.io/badge/-SQL-yellow)
+- ![SQL](https://img.shields.io/badge/-SQL-blue)
 
-## Installation
-Instructions on how to install.  
-Download databse file----   
-right click on database in Server and restore---
+
